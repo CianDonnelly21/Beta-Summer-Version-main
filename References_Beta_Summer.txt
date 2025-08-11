@@ -16,7 +16,7 @@ Box Colour: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.owatroldirect.
 
 Scene Loader: https://gamedevbeginner.com/how-to-load-a-new-scene-in-unity-with-a-loading-screen/
 
-Main Menu Image: https://hotpot.ai/ai-image-generator/create
+Main Menu Image (Prompt Used - I'm making an adventure game called the adventures of bananaman can u create a main menu background to be fun for everyone to look at aswell as engaging towards an audience): https://hotpot.ai/ai-image-generator/create
 
 ChalkBoard (Tutorial Background): https://www.etsy.com/ie/listing/187684779/chalk-board-background-texture-school
 
@@ -33,3 +33,7 @@ Collecting Sound Effect For Gems: https://assetstore.unity.com/packages/audio/so
 Walking Animation: https://assetstore.unity.com/packages/3d/animations/human-basic-motions-free-154271
 
 WebGL fixes: https://www.youtube.com/watch?v=YlFimhxdA1Q
+
+Font Type: https://fonts.google.com/specimen/Prompt
+
+Applying Font: https://youtu.be/gMd0xDEFE20

@@ -20,6 +20,7 @@ public GameObject Removal;
 public AudioSource GemCollectorAudio;
 public AudioClip CollectSound;
 public AudioClip PortalGemSound;
+public AudioClip DeathSound;
 
 void Start()
     {
@@ -93,6 +94,7 @@ void OnTriggerEnter(Collider other)
 
         if(other.CompareTag("Death"))
         {
+            GemCollectorAudio.PlayOneShot(DeathSound, 1.0f);
             gameManager.UpdateLives(1);
             BananaMan.gameObject.SetActive(false);
             CrouchMan.gameObject.SetActive(false);
