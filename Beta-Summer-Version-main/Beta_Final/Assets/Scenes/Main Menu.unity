@@ -306,7 +306,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c8a7d673699afe840bff9e4584c53617, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  PlayButton: {fileID: 227061772}
+  Alpha_Repo: {fileID: 227061772}
+  Beta_Repo: {fileID: 1322447066}
   EasyButton: {fileID: 1874803818}
   MediumButton: {fileID: 1144321832}
   HardButton: {fileID: 1248352257}
@@ -1938,7 +1939,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c8a7d673699afe840bff9e4584c53617, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  PlayButton: {fileID: 1322447066}
+  Alpha_Repo: {fileID: 227061772}
+  Beta_Repo: {fileID: 1322447066}
   EasyButton: {fileID: 1874803818}
   MediumButton: {fileID: 1144321832}
   HardButton: {fileID: 1248352257}
@@ -2136,7 +2138,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1144321833}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 102900000, guid: 7f808078ad72833409b22f97c613fbdf, type: 3}
+        m_TargetAssemblyTypeName: 
+        m_MethodName: 
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: 
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1144321833
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2187,7 +2201,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c8a7d673699afe840bff9e4584c53617, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  PlayButton: {fileID: 1322447066}
+  Alpha_Repo: {fileID: 227061772}
+  Beta_Repo: {fileID: 1322447066}
   EasyButton: {fileID: 1874803818}
   MediumButton: {fileID: 1144321832}
   HardButton: {fileID: 1248352257}
@@ -2277,7 +2292,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 102900000, guid: 6d9c15a504781ae4fa20deb6ee061941, type: 3}
         m_TargetAssemblyTypeName: 
         m_MethodName: 
         m_Mode: 1
@@ -2339,7 +2354,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c8a7d673699afe840bff9e4584c53617, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  PlayButton: {fileID: 1322447066}
+  Alpha_Repo: {fileID: 227061772}
+  Beta_Repo: {fileID: 1322447066}
   EasyButton: {fileID: 1874803818}
   MediumButton: {fileID: 1144321832}
   HardButton: {fileID: 1248352257}
@@ -2434,7 +2450,7 @@ GameObject:
   - component: {fileID: 1322447066}
   - component: {fileID: 1322447069}
   m_Layer: 5
-  m_Name: PlayButton
+  m_Name: Beta Repo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2566,7 +2582,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c8a7d673699afe840bff9e4584c53617, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  PlayButton: {fileID: 1322447066}
+  Alpha_Repo: {fileID: 227061772}
+  Beta_Repo: {fileID: 1322447066}
   EasyButton: {fileID: 1874803818}
   MediumButton: {fileID: 1144321832}
   HardButton: {fileID: 1248352257}
@@ -2864,7 +2881,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 102900000, guid: 8684125622ab9f0418f23e82b703a034, type: 3}
+      - m_Target: {fileID: 102900000, guid: af28757cd8dada040be20ac368ac05ea, type: 3}
         m_TargetAssemblyTypeName: 
         m_MethodName: 
         m_Mode: 1
@@ -2926,7 +2943,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c8a7d673699afe840bff9e4584c53617, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  PlayButton: {fileID: 1322447066}
+  Alpha_Repo: {fileID: 227061772}
+  Beta_Repo: {fileID: 1322447066}
   EasyButton: {fileID: 1874803818}
   MediumButton: {fileID: 1144321832}
   HardButton: {fileID: 1248352257}
