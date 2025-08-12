@@ -7,7 +7,7 @@ Food Prop (Banana/ Olive/ Cherry/ Hotdog/ Hamburger): https://assetstore.unity.c
 Blocks (Not used but kept in references just in case): https://assetstore.unity.com/packages/2d/environments/tileable-2d-terrain-platforms-2d-rpk-22006
 
 Character (Bana
-na Man): https://assetstore.unity.com/packages/3d/characters/humanoids/banana-man-196830
+na Man / Crouch Man): https://assetstore.unity.com/packages/3d/characters/humanoids/banana-man-196830
 -> Adapted: I have a version of banaman crouching in which I created myself by altering positions of the body pieces
 
 Boxes: https://assetstore.unity.com/packages/3d/props/furniture/cartoon-wooden-box-242926
