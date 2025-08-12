@@ -37,3 +37,8 @@ WebGL fixes: https://www.youtube.com/watch?v=YlFimhxdA1Q
 Font Type: https://fonts.google.com/specimen/Prompt
 
 Applying Font: https://youtu.be/gMd0xDEFE20
+
+Death Sound: 
+
+Linking Unity to Button: https://docs.unity3d.com/ScriptReference/Application.OpenURL.html#:~:text=OpenURL%20opens%20the%20URL%20in,URL%20function%20with%20a%20custom%20.
+
