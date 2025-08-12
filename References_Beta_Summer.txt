@@ -1,6 +1,6 @@
-Jungle Background: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Fpixel-art-jungle&psig=AOvVaw0UX0-8Bf01_Kv8gHwgcQVO&ust=1749577062780000&source=images&cd=vfe&opi=89978449&ved=0CBQQjhxqFwoTCODhy9nw5I0DFQAAAAAdAAAAABAE
+Jungle Background: https://www.shutterstock.com/image-vector/pixel-art-jungle-forest-game-location-2399224531
 
-Grass Floor: https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fimages%2Fgrass-lawn-texture-pattern-tile%2F249760944&psig=AOvVaw0XH_z5oP6R5PQpuvtKQ079&ust=1749686757419000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKilg52J6I0DFQAAAAAdAAAAABAa
+Grass Floor: https://stock.adobe.com/ie/images/grass-lawn-texture-pattern-tile/249760944
 
 Food Prop (Banana/ Olive/ Cherry/ Hotdog/ Hamburger): https://assetstore.unity.com/packages/3d/food-props-163295#publisher
 
@@ -12,11 +12,9 @@ na Man): https://assetstore.unity.com/packages/3d/characters/humanoids/banana-ma
 
 Boxes: https://assetstore.unity.com/packages/3d/props/furniture/cartoon-wooden-box-242926
 
-Box Colour: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.owatroldirect.co.uk%2Fwoodcare%2Fdifference-between-brown-green-timber%2F&psig=AOvVaw1Ms5sQWfqjXVBtYC96cI4R&ust=1750369948656000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMDq2qX6-40DFQAAAAAdAAAAABAE
+Box Colour:https://www.owatroldirect.co.uk/woodcare/difference-between-brown-green-timber/
 
-Scene Loader: https://gamedevbeginner.com/how-to-load-a-new-scene-in-unity-with-a-loading-screen/
-
-Main Menu Image (Prompt Used - I'm making an adventure game called the adventures of bananaman can u create a main menu background to be fun for everyone to look at aswell as engaging towards an audience): https://hotpot.ai/ai-image-generator/create
+Main Menu Image: https://hotpot.ai/ai-image-generator/create
 
 ChalkBoard (Tutorial Background): https://www.etsy.com/ie/listing/187684779/chalk-board-background-texture-school
 
@@ -38,7 +36,6 @@ Font Type: https://fonts.google.com/specimen/Prompt
 
 Applying Font: https://youtu.be/gMd0xDEFE20
 
-Death Sound: 
+Death Sound: https://assetstore.unity.com/packages/audio/sound-fx/voices/damage-sounds-male-npc-player-audio-pack-285385
 
 Linking Unity to Button: https://docs.unity3d.com/ScriptReference/Application.OpenURL.html#:~:text=OpenURL%20opens%20the%20URL%20in,URL%20function%20with%20a%20custom%20.
-
