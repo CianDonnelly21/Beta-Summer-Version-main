@@ -18,6 +18,8 @@ public GameObject Olive;
 public GameObject BoxMovable;
 public GameObject Removal;
 public AudioSource GemCollectorAudio;
+public AudioSource PortalGemAudio;
+public AudioSource DeathAudio;
 public AudioClip CollectSound;
 public AudioClip PortalGemSound;
 public AudioClip DeathSound;
@@ -27,7 +29,10 @@ void Start()
         gameManager = GameObject.Find("BananaOne").GetComponent<GameManagerL1>();
         gameManager = GameObject.Find("BananaTwo").GetComponent<GameManagerL1>();
         gameManager = GameObject.Find("BananaThree").GetComponent<GameManagerL1>();
+
         GemCollectorAudio = GetComponent<AudioSource>();
+        PortalGemAudio = GetComponent<AudioSource>();
+        DeathAudio = GetComponent<AudioSource>();
 
         BananaOne.gameObject.SetActive(true);
         BananaTwo.gameObject.SetActive(false);
@@ -76,7 +81,7 @@ void OnTriggerEnter(Collider other)
         if(other.CompareTag("Cherry"))
         {
             Cherry.gameObject.SetActive(false);
-            GemCollectorAudio.PlayOneShot(PortalGemSound, 1.0f);
+            PortalGemAudio.PlayOneShot(PortalGemSound, 1.0f);
 
             //How it loads next scene - Check
             int NextIndex = SceneManager.GetActiveScene().buildIndex + 1;
@@ -94,7 +99,7 @@ void OnTriggerEnter(Collider other)
 
         if(other.CompareTag("Death"))
         {
-            GemCollectorAudio.PlayOneShot(DeathSound, 1.0f);
+            DeathAudio.PlayOneShot(DeathSound, 1.0f);
             gameManager.UpdateLives(1);
             BananaMan.gameObject.SetActive(false);
             CrouchMan.gameObject.SetActive(false);

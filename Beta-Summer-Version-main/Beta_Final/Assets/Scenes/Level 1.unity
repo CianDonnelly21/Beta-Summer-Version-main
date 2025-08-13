@@ -427,8 +427,10 @@ MonoBehaviour:
   HotdogTwo: {fileID: 1943779838}
   HotdogThree: {fileID: 179363694}
   GemCollectorAudio: {fileID: 1734221904}
-  CollectSound: {fileID: 0}
-  PortalGemSound: {fileID: 0}
+  PortalGemAudio: {fileID: 1315170883}
+  DeathAudio: {fileID: 1291906272}
+  CollectSound: {fileID: 8300000, guid: f17bac10ee4c44148a1e9088e7540c55, type: 3}
+  PortalGemSound: {fileID: 8300000, guid: 1916972b0254443a2ac996968e38335c, type: 3}
   DeathSound: {fileID: 8300000, guid: 794be7c4bd9e64c9bbb9776937807a9e, type: 3}
 --- !u!1 &124481663 stripped
 GameObject:
@@ -500,6 +502,8 @@ MonoBehaviour:
   HotdogTwo: {fileID: 1943779838}
   HotdogThree: {fileID: 179363694}
   GemCollectorAudio: {fileID: 1734221904}
+  PortalGemAudio: {fileID: 1315170883}
+  DeathAudio: {fileID: 1291906272}
   CollectSound: {fileID: 8300000, guid: f17bac10ee4c44148a1e9088e7540c55, type: 3}
   PortalGemSound: {fileID: 8300000, guid: 1916972b0254443a2ac996968e38335c, type: 3}
   DeathSound: {fileID: 8300000, guid: 794be7c4bd9e64c9bbb9776937807a9e, type: 3}
@@ -637,8 +641,10 @@ MonoBehaviour:
   HotdogTwo: {fileID: 1943779838}
   HotdogThree: {fileID: 179363694}
   GemCollectorAudio: {fileID: 1734221904}
-  CollectSound: {fileID: 0}
-  PortalGemSound: {fileID: 0}
+  PortalGemAudio: {fileID: 1315170883}
+  DeathAudio: {fileID: 1291906272}
+  CollectSound: {fileID: 8300000, guid: f17bac10ee4c44148a1e9088e7540c55, type: 3}
+  PortalGemSound: {fileID: 8300000, guid: 1916972b0254443a2ac996968e38335c, type: 3}
   DeathSound: {fileID: 8300000, guid: 794be7c4bd9e64c9bbb9776937807a9e, type: 3}
 --- !u!65 &179363696
 BoxCollider:
@@ -1485,6 +1491,8 @@ MonoBehaviour:
   HotdogTwo: {fileID: 1943779838}
   HotdogThree: {fileID: 179363694}
   GemCollectorAudio: {fileID: 1734221904}
+  PortalGemAudio: {fileID: 1315170883}
+  DeathAudio: {fileID: 1291906272}
   CollectSound: {fileID: 8300000, guid: f17bac10ee4c44148a1e9088e7540c55, type: 3}
   PortalGemSound: {fileID: 8300000, guid: 1916972b0254443a2ac996968e38335c, type: 3}
   DeathSound: {fileID: 8300000, guid: 794be7c4bd9e64c9bbb9776937807a9e, type: 3}
@@ -11536,6 +11544,8 @@ MonoBehaviour:
   HotdogTwo: {fileID: 1943779838}
   HotdogThree: {fileID: 179363694}
   GemCollectorAudio: {fileID: 1734221904}
+  PortalGemAudio: {fileID: 1315170883}
+  DeathAudio: {fileID: 1291906272}
   CollectSound: {fileID: 8300000, guid: f17bac10ee4c44148a1e9088e7540c55, type: 3}
   PortalGemSound: {fileID: 8300000, guid: 1916972b0254443a2ac996968e38335c, type: 3}
   DeathSound: {fileID: 8300000, guid: 794be7c4bd9e64c9bbb9776937807a9e, type: 3}
@@ -11620,7 +11630,7 @@ PrefabInstance:
       insertIndex: -1
       addedObject: {fileID: 491414075}
   m_SourcePrefab: {fileID: 100100000, guid: 973e30aed52df874a8a9b583c4cf06d6, type: 3}
---- !u!1 &1045321890
+--- !u!1 &1291906271
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -11628,22 +11638,151 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 1045321892}
-  - component: {fileID: 1045321891}
+  - component: {fileID: 1291906273}
+  - component: {fileID: 1291906272}
   m_Layer: 0
-  m_Name: Collectable_08
+  m_Name: Audio Source (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!82 &1045321891
+--- !u!82 &1291906272
 AudioSource:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1045321890}
+  m_GameObject: {fileID: 1291906271}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: 794be7c4bd9e64c9bbb9776937807a9e, type: 3}
+  m_Resource: {fileID: 8300000, guid: 794be7c4bd9e64c9bbb9776937807a9e, type: 3}
+  m_PlayOnAwake: 0
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+--- !u!4 &1291906273
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1291906271}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -13.330669, y: 5.938287, z: -0.47419763}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1315170882
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1315170884}
+  - component: {fileID: 1315170883}
+  m_Layer: 0
+  m_Name: Audio Source (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!82 &1315170883
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1315170882}
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
@@ -11734,16 +11873,16 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
---- !u!4 &1045321892
+--- !u!4 &1315170884
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1045321890}
+  m_GameObject: {fileID: 1315170882}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: -13.330669, y: 5.938287, z: -0.47419763}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -12105,6 +12244,8 @@ MonoBehaviour:
   HotdogTwo: {fileID: 1943779838}
   HotdogThree: {fileID: 179363694}
   GemCollectorAudio: {fileID: 1734221904}
+  PortalGemAudio: {fileID: 1315170883}
+  DeathAudio: {fileID: 1291906272}
   CollectSound: {fileID: 8300000, guid: f17bac10ee4c44148a1e9088e7540c55, type: 3}
   PortalGemSound: {fileID: 8300000, guid: 1916972b0254443a2ac996968e38335c, type: 3}
   DeathSound: {fileID: 8300000, guid: 794be7c4bd9e64c9bbb9776937807a9e, type: 3}
@@ -12304,6 +12445,8 @@ MonoBehaviour:
   HotdogTwo: {fileID: 1943779838}
   HotdogThree: {fileID: 179363694}
   GemCollectorAudio: {fileID: 1734221904}
+  PortalGemAudio: {fileID: 1315170883}
+  DeathAudio: {fileID: 1291906272}
   CollectSound: {fileID: 8300000, guid: f17bac10ee4c44148a1e9088e7540c55, type: 3}
   PortalGemSound: {fileID: 8300000, guid: 1916972b0254443a2ac996968e38335c, type: 3}
   DeathSound: {fileID: 8300000, guid: 794be7c4bd9e64c9bbb9776937807a9e, type: 3}
@@ -12702,135 +12845,6 @@ MonoBehaviour:
   Gems: {fileID: 1486371284}
   Life: 1
   Lives: {fileID: 1598905210}
---- !u!1 &1535213545
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1535213547}
-  - component: {fileID: 1535213546}
-  m_Layer: 0
-  m_Name: 01. Damage Grunt (Male)
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!82 &1535213546
-AudioSource:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1535213545}
-  m_Enabled: 1
-  serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 794be7c4bd9e64c9bbb9776937807a9e, type: 3}
-  m_Resource: {fileID: 8300000, guid: 794be7c4bd9e64c9bbb9776937807a9e, type: 3}
-  m_PlayOnAwake: 0
-  m_Volume: 1
-  m_Pitch: 1
-  Loop: 0
-  Mute: 0
-  Spatialize: 0
-  SpatializePostEffects: 0
-  Priority: 128
-  DopplerLevel: 1
-  MinDistance: 1
-  MaxDistance: 500
-  Pan2D: 0
-  rolloffMode: 0
-  BypassEffects: 0
-  BypassListenerEffects: 0
-  BypassReverbZones: 0
-  rolloffCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 1
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    - serializedVersion: 3
-      time: 1
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  panLevelCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  spreadCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  reverbZoneMixCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 1
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
---- !u!4 &1535213547
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1535213545}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1546040625
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -18915,6 +18929,8 @@ MonoBehaviour:
   HotdogTwo: {fileID: 1943779838}
   HotdogThree: {fileID: 179363694}
   GemCollectorAudio: {fileID: 1734221904}
+  PortalGemAudio: {fileID: 1315170883}
+  DeathAudio: {fileID: 1291906272}
   CollectSound: {fileID: 8300000, guid: f17bac10ee4c44148a1e9088e7540c55, type: 3}
   PortalGemSound: {fileID: 8300000, guid: 1916972b0254443a2ac996968e38335c, type: 3}
   DeathSound: {fileID: 8300000, guid: 794be7c4bd9e64c9bbb9776937807a9e, type: 3}
@@ -18962,8 +18978,10 @@ MonoBehaviour:
   HotdogTwo: {fileID: 1943779838}
   HotdogThree: {fileID: 179363694}
   GemCollectorAudio: {fileID: 1734221904}
-  CollectSound: {fileID: 0}
-  PortalGemSound: {fileID: 0}
+  PortalGemAudio: {fileID: 1315170883}
+  DeathAudio: {fileID: 1291906272}
+  CollectSound: {fileID: 8300000, guid: f17bac10ee4c44148a1e9088e7540c55, type: 3}
+  PortalGemSound: {fileID: 8300000, guid: 1916972b0254443a2ac996968e38335c, type: 3}
   DeathSound: {fileID: 8300000, guid: 794be7c4bd9e64c9bbb9776937807a9e, type: 3}
 --- !u!65 &1943779840
 BoxCollider:
@@ -19320,8 +19338,8 @@ SceneRoots:
   - {fileID: 1378261877}
   - {fileID: 516336115}
   - {fileID: 1734221905}
-  - {fileID: 1045321892}
+  - {fileID: 1315170884}
+  - {fileID: 1291906273}
   - {fileID: 105954883}
   - {fileID: 753963431}
   - {fileID: 1968104192}
-  - {fileID: 1535213547}

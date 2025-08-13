@@ -322,6 +322,8 @@ MonoBehaviour:
   BoxMovable: {fileID: 491414073}
   Removal: {fileID: 153281020}
   GemCollectorAudio: {fileID: 592104628}
+  PortalGemAudio: {fileID: 794257929}
+  DeathAudio: {fileID: 1544785878}
   CollectSound: {fileID: 8300000, guid: f17bac10ee4c44148a1e9088e7540c55, type: 3}
   PortalGemSound: {fileID: 8300000, guid: 1916972b0254443a2ac996968e38335c, type: 3}
   DeathSound: {fileID: 8300000, guid: 794be7c4bd9e64c9bbb9776937807a9e, type: 3}
@@ -443,6 +445,8 @@ MonoBehaviour:
   BoxMovable: {fileID: 491414073}
   Removal: {fileID: 153281020}
   GemCollectorAudio: {fileID: 592104628}
+  PortalGemAudio: {fileID: 794257929}
+  DeathAudio: {fileID: 1544785878}
   CollectSound: {fileID: 8300000, guid: f17bac10ee4c44148a1e9088e7540c55, type: 3}
   PortalGemSound: {fileID: 8300000, guid: 1916972b0254443a2ac996968e38335c, type: 3}
   DeathSound: {fileID: 8300000, guid: 794be7c4bd9e64c9bbb9776937807a9e, type: 3}
@@ -1472,6 +1476,8 @@ MonoBehaviour:
   BoxMovable: {fileID: 491414073}
   Removal: {fileID: 153281020}
   GemCollectorAudio: {fileID: 592104628}
+  PortalGemAudio: {fileID: 794257929}
+  DeathAudio: {fileID: 1544785878}
   CollectSound: {fileID: 8300000, guid: f17bac10ee4c44148a1e9088e7540c55, type: 3}
   PortalGemSound: {fileID: 8300000, guid: 1916972b0254443a2ac996968e38335c, type: 3}
   DeathSound: {fileID: 8300000, guid: 794be7c4bd9e64c9bbb9776937807a9e, type: 3}
@@ -1503,6 +1509,8 @@ MonoBehaviour:
   BoxMovable: {fileID: 491414073}
   Removal: {fileID: 153281020}
   GemCollectorAudio: {fileID: 592104628}
+  PortalGemAudio: {fileID: 794257929}
+  DeathAudio: {fileID: 1544785878}
   CollectSound: {fileID: 8300000, guid: f17bac10ee4c44148a1e9088e7540c55, type: 3}
   PortalGemSound: {fileID: 8300000, guid: 1916972b0254443a2ac996968e38335c, type: 3}
   DeathSound: {fileID: 8300000, guid: 794be7c4bd9e64c9bbb9776937807a9e, type: 3}
@@ -1663,6 +1671,8 @@ MonoBehaviour:
   BoxMovable: {fileID: 491414073}
   Removal: {fileID: 153281020}
   GemCollectorAudio: {fileID: 0}
+  PortalGemAudio: {fileID: 0}
+  DeathAudio: {fileID: 0}
   CollectSound: {fileID: 0}
   PortalGemSound: {fileID: 0}
   DeathSound: {fileID: 0}
@@ -6645,6 +6655,135 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 90, z: 90}
+--- !u!1 &794257928
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 794257930}
+  - component: {fileID: 794257929}
+  m_Layer: 0
+  m_Name: Audio Source (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!82 &794257929
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 794257928}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: 1916972b0254443a2ac996968e38335c, type: 3}
+  m_Resource: {fileID: 8300000, guid: 1916972b0254443a2ac996968e38335c, type: 3}
+  m_PlayOnAwake: 0
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+--- !u!4 &794257930
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 794257928}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -13.330669, y: 5.938287, z: -0.47419763}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &820477163
 GameObject:
   m_ObjectHideFlags: 0
@@ -11656,6 +11795,8 @@ MonoBehaviour:
   BoxMovable: {fileID: 491414073}
   Removal: {fileID: 153281020}
   GemCollectorAudio: {fileID: 592104628}
+  PortalGemAudio: {fileID: 794257929}
+  DeathAudio: {fileID: 1544785878}
   CollectSound: {fileID: 8300000, guid: f17bac10ee4c44148a1e9088e7540c55, type: 3}
   PortalGemSound: {fileID: 8300000, guid: 1916972b0254443a2ac996968e38335c, type: 3}
   DeathSound: {fileID: 8300000, guid: 794be7c4bd9e64c9bbb9776937807a9e, type: 3}
@@ -16741,135 +16882,6 @@ PrefabInstance:
       insertIndex: -1
       addedObject: {fileID: 153281026}
   m_SourcePrefab: {fileID: 100100000, guid: da4eeef492c0d1842963d6576330682d, type: 3}
---- !u!1 &1138127699
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1138127701}
-  - component: {fileID: 1138127700}
-  m_Layer: 0
-  m_Name: 01. Damage Grunt (Male)
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!82 &1138127700
-AudioSource:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1138127699}
-  m_Enabled: 1
-  serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 794be7c4bd9e64c9bbb9776937807a9e, type: 3}
-  m_Resource: {fileID: 8300000, guid: 794be7c4bd9e64c9bbb9776937807a9e, type: 3}
-  m_PlayOnAwake: 0
-  m_Volume: 1
-  m_Pitch: 1
-  Loop: 0
-  Mute: 0
-  Spatialize: 0
-  SpatializePostEffects: 0
-  Priority: 128
-  DopplerLevel: 1
-  MinDistance: 1
-  MaxDistance: 500
-  Pan2D: 0
-  rolloffMode: 0
-  BypassEffects: 0
-  BypassListenerEffects: 0
-  BypassReverbZones: 0
-  rolloffCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 1
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    - serializedVersion: 3
-      time: 1
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  panLevelCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  spreadCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  reverbZoneMixCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 1
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
---- !u!4 &1138127701
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1138127699}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1159482267
 GameObject:
   m_ObjectHideFlags: 0
@@ -17318,6 +17330,8 @@ MonoBehaviour:
   BoxMovable: {fileID: 491414073}
   Removal: {fileID: 153281020}
   GemCollectorAudio: {fileID: 592104628}
+  PortalGemAudio: {fileID: 794257929}
+  DeathAudio: {fileID: 1544785878}
   CollectSound: {fileID: 8300000, guid: f17bac10ee4c44148a1e9088e7540c55, type: 3}
   PortalGemSound: {fileID: 8300000, guid: 1916972b0254443a2ac996968e38335c, type: 3}
   DeathSound: {fileID: 8300000, guid: 794be7c4bd9e64c9bbb9776937807a9e, type: 3}
@@ -17515,6 +17529,8 @@ MonoBehaviour:
   BoxMovable: {fileID: 491414073}
   Removal: {fileID: 153281020}
   GemCollectorAudio: {fileID: 592104628}
+  PortalGemAudio: {fileID: 794257929}
+  DeathAudio: {fileID: 1544785878}
   CollectSound: {fileID: 8300000, guid: f17bac10ee4c44148a1e9088e7540c55, type: 3}
   PortalGemSound: {fileID: 8300000, guid: 1916972b0254443a2ac996968e38335c, type: 3}
   DeathSound: {fileID: 8300000, guid: 794be7c4bd9e64c9bbb9776937807a9e, type: 3}
@@ -17885,7 +17901,7 @@ RectTransform:
   m_AnchoredPosition: {x: 313.3, y: 179.3}
   m_SizeDelta: {x: 170, y: 60}
   m_Pivot: {x: 0.5, y: 0.5}
---- !u!1 &1466589454
+--- !u!1 &1544785877
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -17893,27 +17909,27 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 1466589456}
-  - component: {fileID: 1466589455}
+  - component: {fileID: 1544785879}
+  - component: {fileID: 1544785878}
   m_Layer: 0
-  m_Name: Collectable_08
+  m_Name: Audio Source (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!82 &1466589455
+--- !u!82 &1544785878
 AudioSource:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1466589454}
+  m_GameObject: {fileID: 1544785877}
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 1916972b0254443a2ac996968e38335c, type: 3}
-  m_Resource: {fileID: 8300000, guid: 1916972b0254443a2ac996968e38335c, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 794be7c4bd9e64c9bbb9776937807a9e, type: 3}
+  m_Resource: {fileID: 8300000, guid: 794be7c4bd9e64c9bbb9776937807a9e, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
@@ -17999,16 +18015,16 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
---- !u!4 &1466589456
+--- !u!4 &1544785879
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1466589454}
+  m_GameObject: {fileID: 1544785877}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: -13.330669, y: 5.938287, z: -0.47419763}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -19185,6 +19201,8 @@ MonoBehaviour:
   BoxMovable: {fileID: 491414073}
   Removal: {fileID: 153281020}
   GemCollectorAudio: {fileID: 592104628}
+  PortalGemAudio: {fileID: 794257929}
+  DeathAudio: {fileID: 1544785878}
   CollectSound: {fileID: 8300000, guid: f17bac10ee4c44148a1e9088e7540c55, type: 3}
   PortalGemSound: {fileID: 8300000, guid: 1916972b0254443a2ac996968e38335c, type: 3}
   DeathSound: {fileID: 8300000, guid: 794be7c4bd9e64c9bbb9776937807a9e, type: 3}
@@ -19691,6 +19709,8 @@ MonoBehaviour:
   BoxMovable: {fileID: 491414073}
   Removal: {fileID: 153281020}
   GemCollectorAudio: {fileID: 592104628}
+  PortalGemAudio: {fileID: 794257929}
+  DeathAudio: {fileID: 1544785878}
   CollectSound: {fileID: 8300000, guid: f17bac10ee4c44148a1e9088e7540c55, type: 3}
   PortalGemSound: {fileID: 8300000, guid: 1916972b0254443a2ac996968e38335c, type: 3}
   DeathSound: {fileID: 8300000, guid: 794be7c4bd9e64c9bbb9776937807a9e, type: 3}
@@ -19730,5 +19750,5 @@ SceneRoots:
   - {fileID: 1128761089}
   - {fileID: 436599605}
   - {fileID: 592104629}
-  - {fileID: 1466589456}
-  - {fileID: 1138127701}
+  - {fileID: 794257930}
+  - {fileID: 1544785879}
