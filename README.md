@@ -1,22 +1,22 @@
-# Beta-Summer-Version-main
+# This is Beta N0.2 Repo! Here is the link to Beta Repo NO.1 - https://github.com/CianDonnelly21/Beta-Summer-Version/tree/main 
 
 References
 
-Jungle Background: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Fpixel-art-jungle&psig=AOvVaw0UX0-8Bf01_Kv8gHwgcQVO&ust=1749577062780000&source=images&cd=vfe&opi=89978449&ved=0CBQQjhxqFwoTCODhy9nw5I0DFQAAAAAdAAAAABAE
+Jungle Background: https://www.shutterstock.com/image-vector/pixel-art-jungle-forest-game-location-2399224531
 
-Grass Floor: https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fimages%2Fgrass-lawn-texture-pattern-tile%2F249760944&psig=AOvVaw0XH_z5oP6R5PQpuvtKQ079&ust=1749686757419000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKilg52J6I0DFQAAAAAdAAAAABAa
+Grass Floor: https://stock.adobe.com/ie/images/grass-lawn-texture-pattern-tile/249760944
 
 Food Prop (Banana/ Olive/ Cherry/ Hotdog/ Hamburger): https://assetstore.unity.com/packages/3d/food-props-163295#publisher
 
 Blocks (Not used but kept in references just in case): https://assetstore.unity.com/packages/2d/environments/tileable-2d-terrain-platforms-2d-rpk-22006
 
 Character (Bana
-na Man): https://assetstore.unity.com/packages/3d/characters/humanoids/banana-man-196830
+na Man / Crouch Man): https://assetstore.unity.com/packages/3d/characters/humanoids/banana-man-196830
 -> Adapted: I have a version of banaman crouching in which I created myself by altering positions of the body pieces
 
 Boxes: https://assetstore.unity.com/packages/3d/props/furniture/cartoon-wooden-box-242926
 
-Box Colour: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.owatroldirect.co.uk%2Fwoodcare%2Fdifference-between-brown-green-timber%2F&psig=AOvVaw1Ms5sQWfqjXVBtYC96cI4R&ust=1750369948656000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMDq2qX6-40DFQAAAAAdAAAAABAE
+Box Colour:https://www.owatroldirect.co.uk/woodcare/difference-between-brown-green-timber/
 
 Main Menu Image: https://hotpot.ai/ai-image-generator/create
 
@@ -33,3 +33,13 @@ Tutorial & GoodLuck Level Music: https://assetstore.unity.com/packages/audio/mus
 Collecting Sound Effect For Gems: https://assetstore.unity.com/packages/audio/sound-fx/collectables-sound-effects-pack-290553
 
 Walking Animation: https://assetstore.unity.com/packages/3d/animations/human-basic-motions-free-154271
+
+WebGL fixes: https://www.youtube.com/watch?v=YlFimhxdA1Q
+
+Font Type: https://fonts.google.com/specimen/Prompt
+
+Applying Font: https://youtu.be/gMd0xDEFE20
+
+Death Sound: https://assetstore.unity.com/packages/audio/sound-fx/voices/damage-sounds-male-npc-player-audio-pack-285385
+
+Linking Unity to Button: https://docs.unity3d.com/ScriptReference/Application.OpenURL.html#:~:text=OpenURL%20opens%20the%20URL%20in,URL%20function%20with%20a%20custom%20.
