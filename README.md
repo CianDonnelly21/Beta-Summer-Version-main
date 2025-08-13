@@ -1,7 +1,3 @@
-# This is Beta N0.2 Repo! Here is the link to Beta Repo NO.1 - https://github.com/CianDonnelly21/Beta-Summer-Version/tree/main 
-
-References
-
 Jungle Background: https://www.shutterstock.com/image-vector/pixel-art-jungle-forest-game-location-2399224531
 
 Grass Floor: https://stock.adobe.com/ie/images/grass-lawn-texture-pattern-tile/249760944
@@ -11,14 +7,15 @@ Food Prop (Banana/ Olive/ Cherry/ Hotdog/ Hamburger): https://assetstore.unity.c
 Blocks (Not used but kept in references just in case): https://assetstore.unity.com/packages/2d/environments/tileable-2d-terrain-platforms-2d-rpk-22006
 
 Character (Bana
-na Man / Crouch Man): https://assetstore.unity.com/packages/3d/characters/humanoids/banana-man-196830
+na Man): https://assetstore.unity.com/packages/3d/characters/humanoids/banana-man-196830
 -> Adapted: I have a version of banaman crouching in which I created myself by altering positions of the body pieces
 
 Boxes: https://assetstore.unity.com/packages/3d/props/furniture/cartoon-wooden-box-242926
 
 Box Colour:https://www.owatroldirect.co.uk/woodcare/difference-between-brown-green-timber/
 
-Main Menu Image: https://hotpot.ai/ai-image-generator/create
+Main Menu Image: https://hotpot.ai/ai-image-generator/create 
+Prompt: "I'm making an adventure game called The Adventures Of Banana-Man, can you create a main menu background where the character Banana-Man is running as if he is on an adventure. Can you also make him look cartoonish."
 
 ChalkBoard (Tutorial Background): https://www.etsy.com/ie/listing/187684779/chalk-board-background-texture-school
 
