@@ -1,3 +1,7 @@
+This is Beta N0.2 Repo! Here is the link to Beta Repo NO.1 - https://github.com/CianDonnelly21/Beta-Summer-Version
+
+References:
+
 Jungle Background: https://www.shutterstock.com/image-vector/pixel-art-jungle-forest-game-location-2399224531
 
 Grass Floor: https://stock.adobe.com/ie/images/grass-lawn-texture-pattern-tile/249760944
