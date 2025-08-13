@@ -227,7 +227,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -36.4, y: -12.3}
+  m_AnchoredPosition: {x: -36.4, y: 28.31}
   m_SizeDelta: {x: 700, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &264381530
@@ -250,7 +250,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Hint: You can click on the home button to get to the main menu'
+  m_text: 'Hint: You can click on the home button to get to the main menu and can
+    change the level of the volume using the slider on the right hand side of each
+    level !!!'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: baec311193d9dba4e925c8a3f605ab48, type: 2}
   m_sharedMaterial: {fileID: -4712497355236159176, guid: baec311193d9dba4e925c8a3f605ab48, type: 2}
