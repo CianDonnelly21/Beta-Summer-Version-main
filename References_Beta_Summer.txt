@@ -39,3 +39,5 @@ Applying Font: https://youtu.be/gMd0xDEFE20
 Death Sound: https://assetstore.unity.com/packages/audio/sound-fx/voices/damage-sounds-male-npc-player-audio-pack-285385
 
 Linking Unity to Button: https://docs.unity3d.com/ScriptReference/Application.OpenURL.html#:~:text=OpenURL%20opens%20the%20URL%20in,URL%20function%20with%20a%20custom%20.
+
+Warning Sound (When Timer Gets Low): https://assetstore.unity.com/packages/audio/sound-fx/free-casual-game-sfx-pack-54116
