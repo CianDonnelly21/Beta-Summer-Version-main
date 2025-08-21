@@ -9,6 +9,8 @@ public class TimeManagerL3 : MonoBehaviour {
     
 int seconds = 30;
 public TextMeshProUGUI Time;
+public AudioSource WarningAudio;
+public AudioClip WarningSound;
 
 void Start()
 {
@@ -29,6 +31,11 @@ IEnumerator Timer(int CountdownTimeLevel3)
     seconds -=CountdownTimeLevel3;
     Time.text = "" + seconds;
     
+    if (seconds == 10)
+    {
+        WarningAudio.PlayOneShot(WarningSound, 1.0f);
+    }
+
     if (seconds == 0)
     {
         SceneManager.LoadScene(5);
