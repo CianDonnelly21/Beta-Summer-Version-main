@@ -11,15 +11,14 @@ Food Prop (Banana/ Olive/ Cherry/ Hotdog/ Hamburger): https://assetstore.unity.c
 Blocks (Not used but kept in references just in case): https://assetstore.unity.com/packages/2d/environments/tileable-2d-terrain-platforms-2d-rpk-22006
 
 Character (Bana
-na Man): https://assetstore.unity.com/packages/3d/characters/humanoids/banana-man-196830
+na Man / Crouch Man): https://assetstore.unity.com/packages/3d/characters/humanoids/banana-man-196830
 -> Adapted: I have a version of banaman crouching in which I created myself by altering positions of the body pieces
 
 Boxes: https://assetstore.unity.com/packages/3d/props/furniture/cartoon-wooden-box-242926
 
-Box Colour:https://www.owatroldirect.co.uk/woodcare/difference-between-brown-green-timber/
+Box Colour: dhttps://www.owatroldirect.co.uk/woodcare/difference-between-brown-green-timber/
 
-Main Menu Image: https://hotpot.ai/ai-image-generator/create 
-Prompt: "I'm making an adventure game called The Adventures Of Banana-Man, can you create a main menu background where the character Banana-Man is running as if he is on an adventure. Can you also make him look cartoonish."
+Main Menu Image: https://hotpot.ai/ai-image-generator/create
 
 ChalkBoard (Tutorial Background): https://www.etsy.com/ie/listing/187684779/chalk-board-background-texture-school
 
@@ -44,3 +43,6 @@ Applying Font: https://youtu.be/gMd0xDEFE20
 Death Sound: https://assetstore.unity.com/packages/audio/sound-fx/voices/damage-sounds-male-npc-player-audio-pack-285385
 
 Linking Unity to Button: https://docs.unity3d.com/ScriptReference/Application.OpenURL.html#:~:text=OpenURL%20opens%20the%20URL%20in,URL%20function%20with%20a%20custom%20.
+
+Warning Sound (When Timer Gets Low): https://assetstore.unity.com/packages/audio/sound-fx/free-casual-game-sfx-pack-54116
+
