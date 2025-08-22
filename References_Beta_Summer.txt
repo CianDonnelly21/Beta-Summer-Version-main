@@ -1,43 +1,150 @@
-Jungle Background: https://www.shutterstock.com/image-vector/pixel-art-jungle-forest-game-location-2399224531
+Folder: Assets/Images/Jungle_Background.png
+Original Name: Pixel art jungle forest game location. Seamless rainforest vector background.
+Location: https://www.shutterstock.com/image-vector/pixel-art-jungle-forest-game-location-2399224531
+Adapted or Unchanged:
 
-Grass Floor: https://stock.adobe.com/ie/images/grass-lawn-texture-pattern-tile/249760944
+->
 
-Food Prop (Banana/ Olive/ Cherry/ Hotdog/ Hamburger): https://assetstore.unity.com/packages/3d/food-props-163295#publisher
+Folder: Assets/Images/Grass_Floor.png
+Original Name: Grass Lawn Texture Pattern Tile 
+Location: https://stock.adobe.com/ie/images/grass-lawn-texture-pattern-tile/249760944
+Adapted or Unchanged:
 
+->
+
+Folder: Assets/AddOns/Mg3D_Food
+Original Name: Food Props
+Location: https://assetstore.unity.com/packages/3d/food-props-163295#publisher
+Adapted or Unchanged:
+
+->
+
+Folder: Assets/
+Original Name:
+Location:
 Blocks (Not used but kept in references just in case): https://assetstore.unity.com/packages/2d/environments/tileable-2d-terrain-platforms-2d-rpk-22006
+Adapted or Unchanged:
 
-Character (Bana
-na Man / Crouch Man): https://assetstore.unity.com/packages/3d/characters/humanoids/banana-man-196830
+->
+
+Folder: Assets/Plugins/Banana Yellow Games/Characters/Banana Man
+Original Name: Banana Man
+Location: https://assetstore.unity.com/packages/3d/characters/humanoids/banana-man-196830
+Adapted or Unchanged:
+
 -> Adapted: I have a version of banaman crouching in which I created myself by altering positions of the body pieces
 
-Boxes: https://assetstore.unity.com/packages/3d/props/furniture/cartoon-wooden-box-242926
 
-Box Colour: https://www.owatroldirect.co.uk/woodcare/difference-between-brown-green-timber/
+Folder: Assets\Hocker\Cartoon Wooden Box\Box
+Original Name: Cartoon Wooden Box
+Location: https://assetstore.unity.com/packages/3d/props/furniture/cartoon-wooden-box-242926
+Adapted or Unchanged:
 
-Main Menu Image: https://hotpot.ai/ai-image-generator/create
+->
 
-ChalkBoard (Tutorial Background): https://www.etsy.com/ie/listing/187684779/chalk-board-background-texture-school
+Folder: Assets/Images/Box.png
+Original Name: Brown Timber
+Location: https://www.owatroldirect.co.uk/woodcare/difference-between-brown-green-timber/
+Adapted or Unchanged:
 
-Gems for portal activation (Rotation Included): https://assetstore.unity.com/packages/2d/environments/animated-match-3-gems-hue-shift-sprites-shaders-62804
+->
 
-Main Menu / You Win and You Lose Music: https://assetstore.unity.com/packages/audio/music/8bit-music-062022-225623
+Folder: Assets/Images/Main_Menu_Background.png
+Original Name:
+Location: https://hotpot.ai/ai-image-generator/create
+Prompt: "I'm making an adventure game called The Adventures Of Banana-Man, can you create a main menu background where the character Banana-Man is running as if he is on an adventure. Can you also make him look cartoonish."
+Adapted or Unchanged:
 
-Level 1 / 2 / 3 Music: https://assetstore.unity.com/packages/audio/sound-fx/nature-sound-fx-180413
+->
 
-Tutorial & GoodLuck Level Music: https://assetstore.unity.com/packages/audio/music/orchestral/adventure-rpg-essentials-music-pack-177827
+Folder: Assets/Images/Chalk.png
+Original Name: Chalk Board Background Texture School Student Child Vintage - Digital Photo Image
+Location: https://www.etsy.com/ie/listing/187684779/chalk-board-background-texture-school
+Adapted or Unchanged:
 
-Collecting Sound Effect For Gems: https://assetstore.unity.com/packages/audio/sound-fx/collectables-sound-effects-pack-290553
+->
 
+Folder: Assets\Animated Match 3 Gems + Hue Shift Sprites Shaders
+Original Name: Animated Match 3 Gems + Hue Shift Sprites Shaders
+Location: https://assetstore.unity.com/packages/2d/environments/animated-match-3-gems-hue-shift-sprites-shaders-62804
+Adapted or Unchanged:
+
+->
+
+Folder: Assets\8Bit Music - 062022
+Original Name: 8Bit Music - 062022
+Location: https://assetstore.unity.com/packages/audio/music/8bit-music-062022-225623
+Adapted or Unchanged:
+
+->
+
+Folder: Assets\Nature Sound FX\Jungle
+Original Name: Nature Sound FX
+Location: https://assetstore.unity.com/packages/audio/sound-fx/nature-sound-fx-180413
+Adapted or Unchanged:
+
+->
+
+Folder: Assets\Adventure RPG Essentials Music Pack v1.1\WAV
+Original Name: Adventure RPG Essentials Music Pack
+Location: https://assetstore.unity.com/packages/audio/music/orchestral/adventure-rpg-essentials-music-pack-177827
+Adapted or Unchanged:
+
+->
+
+Folder: Assets\Collectables Sound Pack\Collectables Sound Effects Pack\Collectables
+Original Name: Collectables Sound Effects Pack
+Location: https://assetstore.unity.com/packages/audio/sound-fx/collectables-sound-effects-pack-290553
+Adapted or Unchanged:
+
+->
+
+Folder: Assets/
+Original Name:
+Location:
 Walking Animation: https://assetstore.unity.com/packages/3d/animations/human-basic-motions-free-154271
+Adapted or Unchanged:
 
-WebGL fixes: https://www.youtube.com/watch?v=YlFimhxdA1Q
+->
 
-Font Type: https://fonts.google.com/specimen/Prompt
+Folder: - 
+Original Name: Unity WebGL Game Not Working? This Should Fix it
+Location: https://www.youtube.com/watch?v=YlFimhxdA1Q
+Adapted or Unchanged:
 
-Applying Font: https://youtu.be/gMd0xDEFE20
+->
 
-Death Sound: https://assetstore.unity.com/packages/audio/sound-fx/voices/damage-sounds-male-npc-player-audio-pack-285385
+Folder: Assets/Fonts/Prompt-ExtraBold.ttf
+Original Name: Prompt
+Location: https://fonts.google.com/specimen/Prompt
+Adapted or Unchanged:
 
-Linking Unity to Button: https://docs.unity3d.com/ScriptReference/Application.OpenURL.html#:~:text=OpenURL%20opens%20the%20URL%20in,URL%20function%20with%20a%20custom%20.
+->
 
-Warning Sound (When Timer Gets Low): https://assetstore.unity.com/packages/audio/sound-fx/free-casual-game-sfx-pack-54116
+Folder: -
+Original Name: Unity Tutorial : How to Import a Custom Font into Unity
+Location: https://youtu.be/gMd0xDEFE20
+Adapted or Unchanged:
+
+->
+
+Folder: Assets/NPC or Player/Damage Sounds/01.Damage Grunt (Male).wav
+Original Name: Damage Sounds (Male) - NPC/Player Audio Pack
+Location: https://assetstore.unity.com/packages/audio/sound-fx/voices/damage-sounds-male-npc-player-audio-pack-285385
+Adapted or Unchanged:
+
+->
+
+Folder: -
+Original Name: Unity Documentation
+Location: https://docs.unity3d.com/ScriptReference/Application.OpenURL.html#:~:text=OpenURL%20opens%20the%20URL%20in,URL%20function%20with%20a%20custom%20.
+Adapted or Unchanged:
+
+->
+
+Folder: Assets\Casual Game Sounds U6\CasualGameSounds/DM-CGS-04.wav
+Original Name: FREE Casual Game SFX Pack
+Location: https://assetstore.unity.com/packages/audio/sound-fx/free-casual-game-sfx-pack-54116
+Adapted or Unchanged:
+
+->
