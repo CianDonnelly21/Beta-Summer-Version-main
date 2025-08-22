@@ -12,17 +12,13 @@ Adapted or Unchanged:
 
 ->
 
-Folder: Assets/AddOns/Mg3D_Food
+Folder: 
+Assets/AddOns/Mg3D_Food/Banana.fbx
+Assets/AddOns/Mg3D_Food/Cherry.fbx
+Assets/AddOns/Mg3D_Food/Hotdog.fbx
+Assets/AddOns/Mg3D_Food/Olive.fbx
 Original Name: Food Props
 Location: https://assetstore.unity.com/packages/3d/food-props-163295#publisher
-Adapted or Unchanged:
-
-->
-
-Folder: Assets/
-Original Name:
-Location:
-Blocks (Not used but kept in references just in case): https://assetstore.unity.com/packages/2d/environments/tileable-2d-terrain-platforms-2d-rpk-22006
 Adapted or Unchanged:
 
 ->
@@ -35,7 +31,10 @@ Adapted or Unchanged:
 -> Adapted: I have a version of banaman crouching in which I created myself by altering positions of the body pieces
 
 
-Folder: Assets\Hocker\Cartoon Wooden Box\Box
+Folder:
+Assets/Hocker/Cartoon Wooden Box/Box/Materials/New Material.mat
+Assets/Hocker/Cartoon Wooden Box/Box/Meshes/BoxReady.obj
+Assets/Hocker/Cartoon Wooden Box/Box/Prefabs/BoxReady.prefab
 Original Name: Cartoon Wooden Box
 Location: https://assetstore.unity.com/packages/3d/props/furniture/cartoon-wooden-box-242926
 Adapted or Unchanged:
@@ -64,52 +63,52 @@ Adapted or Unchanged:
 
 ->
 
-Folder: Assets\Animated Match 3 Gems + Hue Shift Sprites Shaders
+Folder: Assets/Animated Match 3 Gems + Hue Shift Sprites Shaders/Material/Gems/
 Original Name: Animated Match 3 Gems + Hue Shift Sprites Shaders
 Location: https://assetstore.unity.com/packages/2d/environments/animated-match-3-gems-hue-shift-sprites-shaders-62804
 Adapted or Unchanged:
 
 ->
 
-Folder: Assets\8Bit Music - 062022
+Folder: Assets/8Bit Music - 062022/5. Track 5.wav
 Original Name: 8Bit Music - 062022
 Location: https://assetstore.unity.com/packages/audio/music/8bit-music-062022-225623
 Adapted or Unchanged:
 
 ->
 
-Folder: Assets\Nature Sound FX\Jungle
+Folder: 
+Assets/Nature Sound FX/Jungle/Jungle (2) Loop.wav
+Assets/Nature Sound FX/Jungle/Jungle (4).wav
+Assets/Nature Sound FX/Jungle/Jungle (9).wav
 Original Name: Nature Sound FX
 Location: https://assetstore.unity.com/packages/audio/sound-fx/nature-sound-fx-180413
 Adapted or Unchanged:
 
 ->
 
-Folder: Assets\Adventure RPG Essentials Music Pack v1.1\WAV
+Folder: Assets/Adventure RPG Essentials Music Pack v1.1/WAV/01a Title Theme.wav
 Original Name: Adventure RPG Essentials Music Pack
 Location: https://assetstore.unity.com/packages/audio/music/orchestral/adventure-rpg-essentials-music-pack-177827
 Adapted or Unchanged:
 
 ->
 
-Folder: Assets\Collectables Sound Pack\Collectables Sound Effects Pack\Collectables
+Folder: 
+Assets/Collectables Sound Pack/Collectables Sound Effects Pack/Collectables/Collectable_05.wav
+Assets/Collectables Sound Pack/Collectables Sound Effects Pack/Collectables/Collectable_08.wav
 Original Name: Collectables Sound Effects Pack
 Location: https://assetstore.unity.com/packages/audio/sound-fx/collectables-sound-effects-pack-290553
 Adapted or Unchanged:
 
 ->
 
-Folder: Assets/
-Original Name:
+Folder: 
+Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/HumanM@Walk01_Forward.fbx
+Assets/Kevin Iglesias/Human Animations/Unity Demo Scenes/Human Basic Motions/AnimatorControllers/HumanM@Walk01_Forward.controller
+Original Name: Human Basic Motions FREE
 Location:
 Walking Animation: https://assetstore.unity.com/packages/3d/animations/human-basic-motions-free-154271
-Adapted or Unchanged:
-
-->
-
-Folder: - 
-Original Name: Unity WebGL Game Not Working? This Should Fix it
-Location: https://www.youtube.com/watch?v=YlFimhxdA1Q
 Adapted or Unchanged:
 
 ->
@@ -121,16 +120,16 @@ Adapted or Unchanged:
 
 ->
 
-Folder: -
-Original Name: Unity Tutorial : How to Import a Custom Font into Unity
-Location: https://youtu.be/gMd0xDEFE20
+Folder: Assets/NPC or Player/Damage Sounds/01.Damage Grunt (Male).wav
+Original Name: Damage Sounds (Male) - NPC/Player Audio Pack
+Location: https://assetstore.unity.com/packages/audio/sound-fx/voices/damage-sounds-male-npc-player-audio-pack-285385
 Adapted or Unchanged:
 
 ->
 
-Folder: Assets/NPC or Player/Damage Sounds/01.Damage Grunt (Male).wav
-Original Name: Damage Sounds (Male) - NPC/Player Audio Pack
-Location: https://assetstore.unity.com/packages/audio/sound-fx/voices/damage-sounds-male-npc-player-audio-pack-285385
+Folder: Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-04.wav
+Original Name: FREE Casual Game SFX Pack
+Location: https://assetstore.unity.com/packages/audio/sound-fx/free-casual-game-sfx-pack-54116
 Adapted or Unchanged:
 
 ->
@@ -142,9 +141,26 @@ Adapted or Unchanged:
 
 ->
 
-Folder: Assets\Casual Game Sounds U6\CasualGameSounds/DM-CGS-04.wav
-Original Name: FREE Casual Game SFX Pack
-Location: https://assetstore.unity.com/packages/audio/sound-fx/free-casual-game-sfx-pack-54116
+Folder: -
+Original Name: Unity Tutorial : How to Import a Custom Font into Unity
+Location: https://youtu.be/gMd0xDEFE20
+Adapted or Unchanged:
+
+->
+
+Folder: - 
+Original Name: Unity WebGL Game Not Working? This Should Fix it
+Location: https://www.youtube.com/watch?v=YlFimhxdA1Q
+Adapted or Unchanged:
+
+->
+
+
+
+
+Folder: -
+Original Name: Tileable 2d Terrain Platforms - 2D RPK
+Location: https://assetstore.unity.com/packages/2d/environments/tileable-2d-terrain-platforms-2d-rpk-22006
 Adapted or Unchanged:
 
 ->
