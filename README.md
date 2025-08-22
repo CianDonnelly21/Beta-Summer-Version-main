@@ -51,7 +51,7 @@ Adapted or Unchanged: Unchanged
 Folder: Assets/Images/Box.png
 Original Name: Raw Plank Wall
 Location: https://polyhaven.com/a/raw_plank_wall
-Adapted or Unchanged: Adapted, Rotated 90 degress and cropped a little bit
+Adapted or Unchanged: Adapted, Rotated 90 degrees and cropped a little bit
 
 ->
 
