@@ -1,6 +1,7 @@
 This is Beta N0.2 Repo! Here is the link to Beta Repo NO.1 - https://github.com/CianDonnelly21/Beta-Summer-Version
 
 References:
+
 Folder: Assets/Images/Jungle_Background.png
 Original Name: Pixel art jungle forest game location. Seamless rainforest vector background.
 Location: https://www.shutterstock.com/image-vector/pixel-art-jungle-forest-game-location-2399224531
@@ -137,9 +138,6 @@ Location: https://assetstore.unity.com/packages/audio/sound-fx/free-casual-game-
 Adapted or Unchanged: Unchanged
 
 ->
-
-Learning Tools:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Folder: -
 Original Name: Unity Documentation
