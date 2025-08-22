@@ -1,48 +1,163 @@
 This is Beta N0.2 Repo! Here is the link to Beta Repo NO.1 - https://github.com/CianDonnelly21/Beta-Summer-Version
 
 References:
+Folder: Assets/Images/Jungle_Background.png
+Original Name: Pixel art jungle forest game location. Seamless rainforest vector background.
+Location: https://www.shutterstock.com/image-vector/pixel-art-jungle-forest-game-location-2399224531
+Adapted or Unchanged: Unchanged
 
-Jungle Background: https://www.shutterstock.com/image-vector/pixel-art-jungle-forest-game-location-2399224531
+->
 
-Grass Floor: https://stock.adobe.com/ie/images/grass-lawn-texture-pattern-tile/249760944
+Folder: Assets/Images/Grass_Floor.png
+Original Name: Grass Lawn Texture Pattern Tile 
+Location: https://stock.adobe.com/ie/images/grass-lawn-texture-pattern-tile/249760944
+Adapted or Unchanged: Unchanged
 
-Food Prop (Banana/ Olive/ Cherry/ Hotdog/ Hamburger): https://assetstore.unity.com/packages/3d/food-props-163295#publisher
+->
 
-Blocks (Not used but kept in references just in case): https://assetstore.unity.com/packages/2d/environments/tileable-2d-terrain-platforms-2d-rpk-22006
+Folder: 
+Assets/AddOns/Mg3D_Food/Banana.fbx
+Assets/AddOns/Mg3D_Food/Cherry.fbx
+Assets/AddOns/Mg3D_Food/Hotdog.fbx
+Assets/AddOns/Mg3D_Food/Olive.fbx
+Original Name: Food Props
+Location: https://assetstore.unity.com/packages/3d/food-props-163295#publisher
+Adapted or Unchanged: Unchanged
 
-Character (Bana
-na Man / Crouch Man): https://assetstore.unity.com/packages/3d/characters/humanoids/banana-man-196830
--> Adapted: I have a version of banaman crouching in which I created myself by altering positions of the body pieces
+->
 
-Boxes: https://assetstore.unity.com/packages/3d/props/furniture/cartoon-wooden-box-242926
+Folder: 
+Assets/Plugins/Banana Yellow Games/Characters/Banana Man/Materials/Body.mat
+Assets/Plugins/Banana Yellow Games/Characters/Banana Man/Materials/Joints.mat
+Assets/Plugins/Banana Yellow Games/Characters/Banana Man/Textures/Banana Man Albedo.png
+Assets/Plugins/Banana Yellow Games/Characters/Banana Man/Banana Man.fbx
+Original Name: Banana Man
+Location: https://assetstore.unity.com/packages/3d/characters/humanoids/banana-man-196830
+Adapted or Unchanged: Unchanged
 
-Box Colour: dhttps://www.owatroldirect.co.uk/woodcare/difference-between-brown-green-timber/
+->
 
-Main Menu Image: https://hotpot.ai/ai-image-generator/create
+Folder:
+Assets/Hocker/Cartoon Wooden Box/Box/Materials/New Material.mat
+Assets/Hocker/Cartoon Wooden Box/Box/Meshes/BoxReady.obj
+Assets/Hocker/Cartoon Wooden Box/Box/Prefabs/BoxReady.prefab
+Original Name: Cartoon Wooden Box
+Location: https://assetstore.unity.com/packages/3d/props/furniture/cartoon-wooden-box-242926
+Adapted or Unchanged: Unchanged
 
-ChalkBoard (Tutorial Background): https://www.etsy.com/ie/listing/187684779/chalk-board-background-texture-school
+->
 
-Gems for portal activation (Rotation Included): https://assetstore.unity.com/packages/2d/environments/animated-match-3-gems-hue-shift-sprites-shaders-62804
+Folder: Assets/Images/Box.png
+Original Name: Raw Plank Wall
+Location: https://polyhaven.com/a/raw_plank_wall
+Adapted or Unchanged: Adapted, Rotated 90 degress and cropped a little bit
 
-Main Menu / You Win and You Lose Music: https://assetstore.unity.com/packages/audio/music/8bit-music-062022-225623
+->
 
-Level 1 / 2 / 3 Music: https://assetstore.unity.com/packages/audio/sound-fx/nature-sound-fx-180413
+Folder: Assets/Images/Main_Menu_Background.png
+Original Name: The Adventures of Banana Man
+Location: https://hotpot.ai/ai-image-generator/create
+Prompt: "I'm making an adventure game called The Adventures Of Banana-Man, can you create a main menu background where the character Banana-Man is running as if he is on an adventure. Can you also make him look cartoonish."
+Adapted or Unchanged: Unchanged
 
-Tutorial & GoodLuck Level Music: https://assetstore.unity.com/packages/audio/music/orchestral/adventure-rpg-essentials-music-pack-177827
+->
 
-Collecting Sound Effect For Gems: https://assetstore.unity.com/packages/audio/sound-fx/collectables-sound-effects-pack-290553
+Folder: Assets/Images/Chalk.png
+Original Name: Chalk Board Background Texture School Student Child Vintage - Digital Photo Image
+Location: https://www.etsy.com/ie/listing/187684779/chalk-board-background-texture-school
+Adapted or Unchanged: Unchanged
 
-Walking Animation: https://assetstore.unity.com/packages/3d/animations/human-basic-motions-free-154271
+->
 
-WebGL fixes: https://www.youtube.com/watch?v=YlFimhxdA1Q
+Folder: Assets/Animated Match 3 Gems + Hue Shift Sprites Shaders/Material/Gems/
+Original Name: Animated Match 3 Gems + Hue Shift Sprites Shaders
+Location: https://assetstore.unity.com/packages/2d/environments/animated-match-3-gems-hue-shift-sprites-shaders-62804
+Adapted or Unchanged: Unchanged
+->
 
-Font Type: https://fonts.google.com/specimen/Prompt
+Folder: Assets/8Bit Music - 062022/5. Track 5.wav
+Original Name: 8Bit Music - 062022
+Location: https://assetstore.unity.com/packages/audio/music/8bit-music-062022-225623
+Adapted or Unchanged: Unchanged
 
-Applying Font: https://youtu.be/gMd0xDEFE20
+->
 
-Death Sound: https://assetstore.unity.com/packages/audio/sound-fx/voices/damage-sounds-male-npc-player-audio-pack-285385
+Folder: 
+Assets/Nature Sound FX/Jungle/Jungle (2) Loop.wav
+Assets/Nature Sound FX/Jungle/Jungle (4).wav
+Assets/Nature Sound FX/Jungle/Jungle (9).wav
+Original Name: Nature Sound FX
+Location: https://assetstore.unity.com/packages/audio/sound-fx/nature-sound-fx-180413
+Adapted or Unchanged: Unchanged
 
-Linking Unity to Button: https://docs.unity3d.com/ScriptReference/Application.OpenURL.html#:~:text=OpenURL%20opens%20the%20URL%20in,URL%20function%20with%20a%20custom%20.
+->
 
-Warning Sound (When Timer Gets Low): https://assetstore.unity.com/packages/audio/sound-fx/free-casual-game-sfx-pack-54116
+Folder: Assets/Adventure RPG Essentials Music Pack v1.1/WAV/01a Title Theme.wav
+Original Name: Adventure RPG Essentials Music Pack
+Location: https://assetstore.unity.com/packages/audio/music/orchestral/adventure-rpg-essentials-music-pack-177827
+Adapted or Unchanged: Unchanged
 
+->
+
+Folder: 
+Assets/Collectables Sound Pack/Collectables Sound Effects Pack/Collectables/Collectable_05.wav
+Assets/Collectables Sound Pack/Collectables Sound Effects Pack/Collectables/Collectable_08.wav
+Original Name: Collectables Sound Effects Pack
+Location: https://assetstore.unity.com/packages/audio/sound-fx/collectables-sound-effects-pack-290553
+Adapted or Unchanged: Unchanged
+
+->
+
+Folder: 
+Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/HumanM@Walk01_Forward.fbx
+Assets/Kevin Iglesias/Human Animations/Unity Demo Scenes/Human Basic Motions/AnimatorControllers/HumanM@Walk01_Forward.controller
+Original Name: Human Basic Motions FREE
+Location: https://assetstore.unity.com/packages/3d/animations/human-basic-motions-free-154271
+Adapted or Unchanged: Unchanged
+
+->
+
+Folder: Assets/Fonts/Prompt-ExtraBold.ttf
+Original Name: Prompt
+Location: https://fonts.google.com/specimen/Prompt
+Adapted or Unchanged: Unchanged
+
+->
+
+Folder: Assets/NPC or Player/Damage Sounds/01.Damage Grunt (Male).wav
+Original Name: Damage Sounds (Male) - NPC/Player Audio Pack
+Location: https://assetstore.unity.com/packages/audio/sound-fx/voices/damage-sounds-male-npc-player-audio-pack-285385
+Adapted or Unchanged: Unchanged
+
+->
+
+Folder: Assets/Casual Game Sounds U6/CasualGameSounds/DM-CGS-04.wav
+Original Name: FREE Casual Game SFX Pack
+Location: https://assetstore.unity.com/packages/audio/sound-fx/free-casual-game-sfx-pack-54116
+Adapted or Unchanged: Unchanged
+
+->
+
+Learning Tools:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Folder: -
+Original Name: Unity Documentation
+Location: https://docs.unity3d.com/ScriptReference/Application.OpenURL.html#:~:text=OpenURL%20opens%20the%20URL%20in,URL%20function%20with%20a%20custom%20.
+Adapted or Unchanged: Adapted, I used my own links but also added my own method to my script and called it in using the method name 'Alpha_URL'
+
+-> No Create With Code Tutorials showed how to add a repo to buttons
+
+Folder: -
+Original Name: Unity Tutorial : How to Import a Custom Font into Unity
+Location: https://youtu.be/gMd0xDEFE20
+Adapted or Unchanged: -
+
+-> No Create With Code Tutorials showed how to import a font into unity this helped solve the issue of why it wasnt displaying when I dragged it into inspector
+
+Folder: - 
+Original Name: Unity WebGL Game Not Working? This Should Fix it
+Location: https://www.youtube.com/watch?v=YlFimhxdA1Q
+Adapted or Unchanged: -
+
+-> I had Errors with JavaScript and JSon files when building therefore used this video to allow for gameplay in WEB GL as it ran fine in build with no errors.
