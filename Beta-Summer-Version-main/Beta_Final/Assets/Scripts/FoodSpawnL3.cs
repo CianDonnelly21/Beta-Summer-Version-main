@@ -83,7 +83,6 @@ void OnTriggerEnter(Collider other)
             Cherry.gameObject.SetActive(false);
             PortalGemAudio.PlayOneShot(PortalGemSound, 1.0f);
 
-            //How it loads next scene - Check
             int NextIndex = SceneManager.GetActiveScene().buildIndex + 1;
             SceneManager.LoadScene(NextIndex);
             
