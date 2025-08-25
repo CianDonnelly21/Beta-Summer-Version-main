@@ -75,6 +75,6 @@ void LevelOne()
 
     void Beta_URL()
     {
-        Application.OpenURL("https://github.com/CianDonnelly21/Beta-Summer-Version/tree/main");
+        Application.OpenURL("https://github.com/CianDonnelly21/Beta-Summer-Version-main");
     }
 }
