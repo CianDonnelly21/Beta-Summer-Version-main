@@ -1,5 +1,3 @@
-IMPORTANT!!! *** This is Beta N0.2 Repo! Here is the link to Beta Repo NO.1 - https://github.com/CianDonnelly21/Beta-Summer-Version ***
-
 References:
 
 Folder: Assets/Images/Jungle_Background.png
