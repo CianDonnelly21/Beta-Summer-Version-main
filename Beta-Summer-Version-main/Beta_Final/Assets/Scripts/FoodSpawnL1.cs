@@ -82,8 +82,7 @@ void OnTriggerEnter(Collider other)
             Cherry.gameObject.SetActive(false);
             PortalGemAudio.PlayOneShot(PortalGemSound, 1.0f);
             
-            int NextIndex = SceneManager.GetActiveScene().buildIndex + 1;
-            SceneManager.LoadScene(NextIndex);
+            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
             
             BananaMan.gameObject.SetActive(false);
             CrouchMan.gameObject.SetActive(false);
