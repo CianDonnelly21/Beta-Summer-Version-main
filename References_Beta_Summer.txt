@@ -87,10 +87,28 @@ Adapted or Unchanged: Unchanged
 
 ->
 
-Folder: Assets/Animated Match 3 Gems + Hue Shift Sprites Shaders/Material/Gems/
+Folder: 
+Assets/Animated Match 3 Gems + Hue Shift Sprites Shaders/Material/Gems/Hue -37.mat
+Assets/Animated Match 3 Gems + Hue Shift Sprites Shaders/Material/Gems/Hue -47.mat
+Assets/Animated Match 3 Gems + Hue Shift Sprites Shaders/Material/Gems/Hue -76.mat
+Assets/Animated Match 3 Gems + Hue Shift Sprites Shaders/Material/Gems/Hue 116.mat
+Assets/Animated Match 3 Gems + Hue Shift Sprites Shaders/Material/Gems/Hue -145.mat
+Assets/Animated Match 3 Gems + Hue Shift Sprites Shaders/Material/Gems/Hue -167.mat
+Assets/Animated Match 3 Gems + Hue Shift Sprites Shaders/Shaders/Sprites-Color-HSV-Default.shader
+Assets/Animated Match 3 Gems + Hue Shift Sprites Shaders/Shaders/Sprites-Color-HSV-Diffuse.shader
+Assets/Animated Match 3 Gems + Hue Shift Sprites Shaders/Shaders/Sprites-HSV-Default.shader
+Assets/Animated Match 3 Gems + Hue Shift Sprites Shaders/Shaders/Sprites-HSV-Diffuse.shader
+Assets/Animated Match 3 Gems + Hue Shift Sprites Shaders/Shaders/Sprites/Gems/Multiple/Gem_xx/Gem_8x.controller
+Assets/Animated Match 3 Gems + Hue Shift Sprites Shaders/Shaders/Sprites/Gems/Multiple/Gem_xx/Gem_xx.controller
+Assets/Animated Match 3 Gems + Hue Shift Sprites Shaders/Shaders/Sprites/Gems/Multiple/Gem_xx/Gem_xx.png
+Assets/Animated Match 3 Gems + Hue Shift Sprites Shaders/Shaders/Sprites/Gems/Multiple/Gem_xx/Gem_xx.anim
+Assets/Animated Match 3 Gems + Hue Shift Sprites Shaders/Shaders/Sprites/Gems/Multiple/Gem_xx/Gem_xx_0 1.controller
+Assets/Animated Match 3 Gems + Hue Shift Sprites Shaders/Shaders/Sprites/Gems/Multiple/Gem_xx/Gem_xx_0.controller
+Assets/Animated Match 3 Gems + Hue Shift Sprites Shaders/Shaders/Sprites/Gems/Single/Gem_xx.png
 Original Name: Animated Match 3 Gems + Hue Shift Sprites Shaders
 Location: https://assetstore.unity.com/packages/2d/environments/animated-match-3-gems-hue-shift-sprites-shaders-62804
 Adapted or Unchanged: Unchanged
+
 ->
 
 Folder: Assets/8Bit Music - 062022/5. Track 5.wav
