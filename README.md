@@ -16,14 +16,18 @@ https://www.youtube.com/watch?v=q-GLQ6G8pBQ
 
 References:
 
-Folder: Assets/Images/Jungle_Background.png
+Folder: 
+Assets/Images/Jungle_Background.png
+Assets/Images/Materials/Jungle_Background.mat
 Original Name: Pixel art jungle forest game location. Seamless rainforest vector background.
 Location: https://www.shutterstock.com/image-vector/pixel-art-jungle-forest-game-location-2399224531
 Adapted or Unchanged: Unchanged
 
 ->
 
-Folder: Assets/Images/Grass_Floor.png
+Folder: 
+Assets/Images/Grass_Floor.png
+Assets/Images/Materials/Grass_Floor.mat
 Original Name: Grass Lawn Texture Pattern Tile 
 Location: https://stock.adobe.com/ie/images/grass-lawn-texture-pattern-tile/249760944
 Adapted or Unchanged: Unchanged
@@ -62,14 +66,29 @@ Adapted or Unchanged: Unchanged
 
 ->
 
-Folder: Assets/Images/Box.png
+Folder: 
+Assets/Images/Box.png
+Assets/Images/Materials/Box 1.mat
+Assets/Images/Materials/Box 2.mat
+Assets/Images/Materials/Box 3.mat
+Assets/Images/Materials/Box 4.mat
+Assets/Images/Materials/Box 5.mat
+Assets/Images/Materials/Box 6.mat
+Assets/Images/Materials/Box 7.mat
+Assets/Images/Materials/Box 8.mat
+Assets/Images/Materials/Box 9.mat
+Assets/Images/Materials/Box 10.mat
+Assets/Images/Materials/Box 11.mat
+Assets/Images/Materials/Box.mat
 Original Name: Raw Plank Wall
 Location: https://polyhaven.com/a/raw_plank_wall
-Adapted or Unchanged: Adapted, Rotated 90 degrees and cropped a little bit
+Adapted or Unchanged: Adapted, Rotated 90 degress and cropped a little bit
 
 ->
 
-Folder: Assets/Images/Main_Menu_Background.png
+Folder: 
+Assets/Images/Main_Menu_Background.png
+Assets/Images/Materials/Main_Menu_Background.mat
 Original Name: The Adventures of Banana Man
 Location: https://hotpot.ai/ai-image-generator/create
 Prompt: "I'm making an adventure game called The Adventures Of Banana-Man, can you create a main menu background where the character Banana-Man is running as if he is on an adventure. Can you also make him look cartoonish."
@@ -77,17 +96,37 @@ Adapted or Unchanged: Unchanged
 
 ->
 
-Folder: Assets/Images/Chalk.png
+Folder: 
+Assets/Images/Chalk.png
+Assets/Images/Materials/Chalk.mat
 Original Name: Chalk Board Background Texture School Student Child Vintage - Digital Photo Image
 Location: https://www.etsy.com/ie/listing/187684779/chalk-board-background-texture-school
 Adapted or Unchanged: Unchanged
 
 ->
 
-Folder: Assets/Animated Match 3 Gems + Hue Shift Sprites Shaders/Material/Gems/
+Folder: 
+Assets/Animated Match 3 Gems + Hue Shift Sprites Shaders/Material/Gems/Hue -37.mat
+Assets/Animated Match 3 Gems + Hue Shift Sprites Shaders/Material/Gems/Hue -47.mat
+Assets/Animated Match 3 Gems + Hue Shift Sprites Shaders/Material/Gems/Hue -76.mat
+Assets/Animated Match 3 Gems + Hue Shift Sprites Shaders/Material/Gems/Hue 116.mat
+Assets/Animated Match 3 Gems + Hue Shift Sprites Shaders/Material/Gems/Hue -145.mat
+Assets/Animated Match 3 Gems + Hue Shift Sprites Shaders/Material/Gems/Hue -167.mat
+Assets/Animated Match 3 Gems + Hue Shift Sprites Shaders/Shaders/Sprites-Color-HSV-Default.shader
+Assets/Animated Match 3 Gems + Hue Shift Sprites Shaders/Shaders/Sprites-Color-HSV-Diffuse.shader
+Assets/Animated Match 3 Gems + Hue Shift Sprites Shaders/Shaders/Sprites-HSV-Default.shader
+Assets/Animated Match 3 Gems + Hue Shift Sprites Shaders/Shaders/Sprites-HSV-Diffuse.shader
+Assets/Animated Match 3 Gems + Hue Shift Sprites Shaders/Shaders/Sprites/Gems/Multiple/Gem_xx/Gem_8x.controller
+Assets/Animated Match 3 Gems + Hue Shift Sprites Shaders/Shaders/Sprites/Gems/Multiple/Gem_xx/Gem_xx.controller
+Assets/Animated Match 3 Gems + Hue Shift Sprites Shaders/Shaders/Sprites/Gems/Multiple/Gem_xx/Gem_xx.png
+Assets/Animated Match 3 Gems + Hue Shift Sprites Shaders/Shaders/Sprites/Gems/Multiple/Gem_xx/Gem_xx.anim
+Assets/Animated Match 3 Gems + Hue Shift Sprites Shaders/Shaders/Sprites/Gems/Multiple/Gem_xx/Gem_xx_0 1.controller
+Assets/Animated Match 3 Gems + Hue Shift Sprites Shaders/Shaders/Sprites/Gems/Multiple/Gem_xx/Gem_xx_0.controller
+Assets/Animated Match 3 Gems + Hue Shift Sprites Shaders/Shaders/Sprites/Gems/Single/Gem_xx.png
 Original Name: Animated Match 3 Gems + Hue Shift Sprites Shaders
 Location: https://assetstore.unity.com/packages/2d/environments/animated-match-3-gems-hue-shift-sprites-shaders-62804
 Adapted or Unchanged: Unchanged
+
 ->
 
 Folder: Assets/8Bit Music - 062022/5. Track 5.wav
