@@ -1,3 +1,19 @@
+**References and Quick Links**
+
+Quick Links:
+
+Alpha Github Link:
+https://github.com/CianDonnelly21/Alpha_Summer_Version
+
+Beta Github Link:
+https://github.com/CianDonnelly21/Beta-Summer-Version-main
+
+WebGL Link: 
+https://play.unity.com/en/games/1e8e4aa1-1ec9-4e50-beb4-1e6cc44b874f/the-adventures-of-banana-man
+
+Video Demo Link:
+https://www.youtube.com/watch?v=q-GLQ6G8pBQ
+
 References:
 
 Folder: Assets/Images/Jungle_Background.png
