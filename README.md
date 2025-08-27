@@ -107,7 +107,7 @@ Adapted or Unchanged: Unchanged
 
 Folder: 
 Assets/Animated Match 3 Gems + Hue Shift Sprites Shaders/Material/Gems/Hue -37.mat
-Assets/Animated Match 3 Gems + Hue Shift Sprites Shaders/Material/Gems/Hue -47.mat
+Assets/Animated Match 3 Gems + Hue Shift Sprites Shaders/Material/Gems/Hue 47.mat
 Assets/Animated Match 3 Gems + Hue Shift Sprites Shaders/Material/Gems/Hue -76.mat
 Assets/Animated Match 3 Gems + Hue Shift Sprites Shaders/Material/Gems/Hue 116.mat
 Assets/Animated Match 3 Gems + Hue Shift Sprites Shaders/Material/Gems/Hue -145.mat
